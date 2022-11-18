@@ -1,6 +1,6 @@
 [Home](/README.md)
 
-[My Favorites](MyFavorites.md)
+[My Favorites](/MyFavorites.md)
 
 [My Enjoyments](/Enjoyment.md)
 
