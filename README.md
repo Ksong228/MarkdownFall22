@@ -1,8 +1,8 @@
+[My Courses](/CoursesFall22.md)
+
 [My Favorites](/MyFavorites.md)
 
 [My Enjoyments](/Enjoyment.md)
-
-[My Courses](/CoursesFall22.md)
 
 # Markdown Challenge
 
@@ -12,6 +12,6 @@ My name is Kevin.
 
 I was born in Casper, Wyoming.
 
-I am currently a Senior.
+I am currently a senior.
 
 I have two siblings.
