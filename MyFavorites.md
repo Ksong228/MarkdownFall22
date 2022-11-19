@@ -1,6 +1,6 @@
 [Home](/README.md)
 
-[My Courses](/Courses.md)
+[My Courses](/CoursesFall22.md)
 
 [My Enjoyments](/Enjoyment.md)
 
